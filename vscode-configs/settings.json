@@ -16,6 +16,7 @@
   "editor.accessibilitySupport": "off",
   "editor.semanticHighlighting.enabled": false,
   "editor.detectIndentation": false,
+  "editor.stickyScroll.enabled": false,
 
   // Workbench Configs
   "workbench.iconTheme": "material-icon-theme",
@@ -37,6 +38,7 @@
   "terminal.integrated.showExitAlert": false,
   "terminal.integrated.gpuAcceleration": "off",
   "terminal.integrated.suggest.enabled": false,
+  "terminal.integrated.stickyScroll.enabled": false,
   "terminal.integrated.env.osx": {
     "FIG_NEW_SESSION": "1"
   },
